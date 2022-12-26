@@ -1,0 +1,81 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Desktop Connect Four/*
+!/Desktop Connect Four/task/
+/Desktop Connect Four/task/*
+!/Desktop Connect Four/task/src/
+!/Desktop Connect Four/task/build.gradle
+!/Desktop Connect Four/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/Custom exceptions/Checked exception with constructor/out/
+/Topics/Custom exceptions/Checked exception with constructor/out/production/classes/
+/Topics/Custom exceptions/DriverNotReadyException/out/
+/Topics/Custom exceptions/DriverNotReadyException/out/production/classes/
+/Topics/Custom exceptions/Exception chaining/out/
+/Topics/Custom exceptions/Exception chaining/out/production/classes/
+/Topics/Custom exceptions/Handle incorrect inputs/out/
+/Topics/Custom exceptions/Handle incorrect inputs/out/production/classes/
+/Topics/Custom exceptions/Square class/out/
+/Topics/Custom exceptions/Square class/out/production/classes/
+/Topics/Custom exceptions/Theory/out/
+/Topics/Custom exceptions/Theory/out/production/classes/
+/Topics/Template method/A disadvantage/out/
+/Topics/Template method/A disadvantage/out/production/classes/
+/Topics/Template method/Build a house/out/
+/Topics/Template method/Build a house/out/production/classes/
+/Topics/Template method/Social networks/out/
+/Topics/Template method/Social networks/out/production/classes/
+/Topics/Template method/Template Method/out/
+/Topics/Template method/Template Method/out/production/classes/
+/Topics/Template method/Template Method (1)/out/
+/Topics/Template method/Template Method (1)/out/production/classes/
+/Topics/Template method/Theory/out/
+/Topics/Template method/Theory/out/production/classes/
+/Topics/The Map interface/Basics of Maps/out/
+/Topics/The Map interface/Basics of Maps/out/production/classes/
+/Topics/The Map interface/Displaying pairs/out/
+/Topics/The Map interface/Displaying pairs/out/production/classes/
+/Topics/The Map interface/Modifying a map/out/
+/Topics/The Map interface/Modifying a map/out/production/classes/
+/Topics/The Map interface/Sherlock Holmes and removing of characters/out/
+/Topics/The Map interface/Sherlock Holmes and removing of characters/out/production/classes/
+/Topics/The Map interface/Theory/out/
+/Topics/The Map interface/Theory/out/production/classes/
+/Topics/The Set interface/A subset of sorted set/out/
+/Topics/The Set interface/A subset of sorted set/out/production/classes/
+/Topics/The Set interface/Spell checker/out/
+/Topics/The Set interface/Spell checker/out/production/classes/
+/Topics/The Set interface/Symmetric difference/out/
+/Topics/The Set interface/Symmetric difference/out/production/classes/
+/Topics/The Set interface/Theory/out/
+/Topics/The Set interface/Theory/out/production/classes/
+/Topics/Throwing exceptions/Days of the week/out/
+/Topics/Throwing exceptions/Days of the week/out/production/classes/
+/Topics/Throwing exceptions/Possible declaration/out/
+/Topics/Throwing exceptions/Possible declaration/out/production/classes/
+/Topics/Throwing exceptions/Theory/out/
+/Topics/Throwing exceptions/Theory/out/production/classes/
+/Topics/Throwing exceptions/Throw a checked exception/out/
+/Topics/Throwing exceptions/Throw a checked exception/out/production/classes/
+/Topics/Throwing exceptions/Throw an IOException/out/
+/Topics/Throwing exceptions/Throw an IOException/out/production/classes/
+/Topics/Window listeners/Closing the window/out/
+/Topics/Window listeners/Closing the window/out/production/classes/
+/Topics/Window listeners/Count a window active time/out/
+/Topics/Window listeners/Count a window active time/out/production/classes/
+/Topics/Window listeners/Theory/out/
+/Topics/Window listeners/Theory/out/production/classes/
